@@ -25,13 +25,13 @@
 
 /*-------------------------------------------Redirect Button---------------------------------------------*/
 .redirect-btn {
-    top: 46.5%;
-    left: 0%; 
+    top: 48%;
+    left: 25%; 
 }
 
 .redirect-btn img {
     width: 45%;
-    animation: pulse 0.7s infinite linear;
+    animation: pulse 1s infinite linear;
 }
 
 /*-------------------------------------------Keyframe Animation---------------------------------------------*/
